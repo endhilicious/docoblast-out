@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: rgba(7,29,54,0.3);
+      }
+    </style>
+  </defs>
+  <g id="ic_back" transform="translate(56 56) rotate(-180)">
+    <rect id="Rectangle_19" data-name="Rectangle 19" class="cls-1" width="56" height="56"/>
+    <g id="surface1_1_" transform="translate(18.928 9.184)">
+      <path id="Path_65" data-name="Path 65" class="cls-2" d="M20.036,8.2,16.9,11.336,32.356,26.68,16.9,42.248l3.136,3.136L37.06,28.36l1.568-1.568L37.06,25.224Z" transform="translate(-16.9 -8.2)"/>
+    </g>
+  </g>
+</svg>

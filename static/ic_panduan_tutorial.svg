@@ -1,0 +1,23 @@
+<svg id="ic_panduan_tutorial" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #5ac2e2;
+      }
+
+      .cls-3 {
+        fill: #1798d1;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_177" data-name="Rectangle 177" class="cls-1" width="96" height="96"/>
+  <path id="Path_146" data-name="Path 146" class="cls-2" d="M32.5,22.2l-15-9-4.5-3V39l4.5-2.7,15-9,4.2-2.4ZM19,28.5V21l6.3,3.9Z" transform="translate(26 20.4)"/>
+  <g id="Group_241" data-name="Group 241" transform="translate(12 21)">
+    <path id="Path_147" data-name="Path 147" class="cls-3" d="M4,7V55H76V7ZM70,49H10V13H70Z" transform="translate(-4 -7)"/>
+    <rect id="Rectangle_178" data-name="Rectangle 178" class="cls-3" width="36" height="6" transform="translate(18 51)"/>
+  </g>
+</svg>

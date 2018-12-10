@@ -1,0 +1,17 @@
+<svg id="ic_harga_remove" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ff6b6b;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_25" data-name="Rectangle 25" class="cls-1" width="24" height="24"/>
+  <g id="surface1_1_" transform="translate(2.25 2.25)">
+    <path id="Path_67" data-name="Path 67" class="cls-2" d="M12.75,3a9.75,9.75,0,1,0,9.75,9.75A9.731,9.731,0,0,0,12.75,3Zm0,1.5A8.25,8.25,0,1,1,4.5,12.75,8.226,8.226,0,0,1,12.75,4.5ZM9.9,8.85,8.85,9.9l2.85,2.85L8.85,15.6,9.9,16.65l2.85-2.85,2.85,2.85,1.05-1.05L13.8,12.75,16.65,9.9,15.6,8.85,12.75,11.7Z" transform="translate(-3 -3)"/>
+  </g>
+</svg>

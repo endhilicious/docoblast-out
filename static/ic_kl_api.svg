@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1798d1;
+      }
+
+      .cls-3 {
+        fill: #5ac2e2;
+      }
+    </style>
+  </defs>
+  <g id="ic_kl_api" transform="translate(0)">
+    <rect id="Rectangle_145" data-name="Rectangle 145" class="cls-1" width="32" height="32"/>
+    <g id="Group_163" data-name="Group 163">
+      <path id="Path_131" data-name="Path 131" class="cls-2" d="M2,6V26H30V6ZM28,24H4V8H28Z"/>
+      <g id="Group_162" data-name="Group 162">
+        <path id="Path_132" data-name="Path 132" class="cls-3" d="M13.9,18.7l-1.9-6-.2-.7H10.2l-.2.7-1.9,6-.1.1V20h2V19h2v1h2V18.8ZM10.7,17l.3-.9.3.9Z"/>
+        <path id="Path_133" data-name="Path 133" class="cls-3" d="M17,12H15v8h2V18a3,3,0,0,0,0-6Zm0,4V14a1,1,0,0,1,0,2Z"/>
+        <rect id="Rectangle_146" data-name="Rectangle 146" class="cls-3" width="2" height="8" transform="translate(21 12)"/>
+      </g>
+    </g>
+  </g>
+</svg>

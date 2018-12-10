@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #071d36;
+      }
+    </style>
+  </defs>
+  <g id="ic_harga_harga" class="cls-1">
+    <rect id="Rectangle_207" data-name="Rectangle 207" class="cls-2" width="24" height="24"/>
+    <g id="Group_297" data-name="Group 297" transform="translate(2 2)">
+      <path id="Path_180" data-name="Path 180" class="cls-3" d="M14.75,5a9.75,9.75,0,1,0,9.75,9.75A9.722,9.722,0,0,0,14.75,5Zm0,17.727a7.977,7.977,0,1,1,7.977-7.977A7.944,7.944,0,0,1,14.75,22.727Z" transform="translate(-5 -5)"/>
+      <path id="Path_181" data-name="Path 181" class="cls-3" d="M14.773,10v1.064A2.582,2.582,0,0,0,13,13.545,2.726,2.726,0,0,0,15.659,16.2a.886.886,0,1,1-.886.886H13a2.582,2.582,0,0,0,1.773,2.482v1.064h1.773V19.573a2.582,2.582,0,0,0,1.773-2.482,2.726,2.726,0,0,0-2.659-2.659.886.886,0,1,1,.886-.886h1.773a2.582,2.582,0,0,0-1.773-2.482V10Z" transform="translate(-5.909 -5.568)"/>
+    </g>
+  </g>
+</svg>

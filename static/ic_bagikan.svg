@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_bagikan" class="cls-1">
+    <rect id="Rectangle_1873" data-name="Rectangle 1873" class="cls-2" width="24" height="24"/>
+    <g id="surface1_1_" transform="translate(3.75 3.45)">
+      <path id="Path_2322" data-name="Path 2322" d="M16.475,4.6l-1.05,1.05L18.65,8.875h-.9A12.739,12.739,0,0,0,5,21.625H6.5a11.235,11.235,0,0,1,11.25-11.25h.9L15.425,13.6l1.05,1.05,4.5-4.5.525-.525L20.975,9.1Z" transform="translate(-5 -4.6)"/>
+    </g>
+  </g>
+</svg>

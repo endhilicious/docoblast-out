@@ -1,0 +1,17 @@
+<svg id="ic_harga_select" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #20bf6b;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_24" data-name="Rectangle 24" class="cls-1" width="24" height="24"/>
+  <g id="surface1_1_" transform="translate(2.25 2.25)">
+    <path id="Path_66" data-name="Path 66" class="cls-2" d="M12.75,3a9.75,9.75,0,1,0,9.75,9.75A9.731,9.731,0,0,0,12.75,3Zm0,1.5A8.25,8.25,0,1,1,4.5,12.75,8.226,8.226,0,0,1,12.75,4.5Zm4.725,4.725L12,14.7,8.775,11.475l-1.05,1.05,3.75,3.75L12,16.8l.525-.525,6-6Z" transform="translate(-3 -3)"/>
+  </g>
+</svg>

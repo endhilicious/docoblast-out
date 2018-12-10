@@ -1,0 +1,17 @@
+<svg id="ic_alamat" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1798d1;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_1870" data-name="Rectangle 1870" class="cls-1" width="24" height="24"/>
+  <g id="surface1_1_" transform="translate(3 3)">
+    <path id="Path_2319" data-name="Path 2319" class="cls-2" d="M13,4a9,9,0,1,0,9,9A9.026,9.026,0,0,0,13,4Zm-.75,1.575h0V6.25h1.5V5.575a7.435,7.435,0,0,1,6.675,6.675H19.75v1.5h.675a7.435,7.435,0,0,1-6.675,6.675V19.75h-1.5v.675A7.435,7.435,0,0,1,5.575,13.75H6.25v-1.5H5.575A7.3,7.3,0,0,1,12.25,5.575Zm5.625,2.55L11.65,11.65,8.125,17.875,14.35,14.35ZM13,11.875A1.125,1.125,0,1,1,11.875,13,1.153,1.153,0,0,1,13,11.875Z" transform="translate(-4 -4)"/>
+  </g>
+</svg>

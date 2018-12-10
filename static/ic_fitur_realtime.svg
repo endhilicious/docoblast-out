@@ -1,0 +1,22 @@
+<svg id="ic_fitur_realtime" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1798d1;
+      }
+
+      .cls-3 {
+        fill: #5ac2e2;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_61" data-name="Rectangle 61" class="cls-1" width="48" height="48"/>
+  <g id="Group_77" data-name="Group 77" transform="translate(6 6)">
+    <path id="Path_92" data-name="Path 92" class="cls-2" d="M22,4A18.069,18.069,0,0,0,7,11.95V7H4V17.5H14.5v-3H9.1A14.758,14.758,0,0,1,22,7,15,15,0,1,1,7,22H4A18,18,0,1,0,22,4Z" transform="translate(-4 -4)"/>
+    <path id="Path_93" data-name="Path 93" class="cls-3" d="M15,8V21.5H25.5v-3H18V8Z" transform="translate(1.5 -2)"/>
+  </g>
+</svg>

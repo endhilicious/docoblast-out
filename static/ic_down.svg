@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #071d36;
+      }
+    </style>
+  </defs>
+  <g id="ic_down" class="cls-1" transform="translate(20) rotate(90)">
+    <rect id="Rectangle_19" data-name="Rectangle 19" class="cls-2" width="20" height="20"/>
+    <g id="icons8_Expand_Arrow_2" transform="translate(6.786 16.75) rotate(-90)">
+      <path id="Path_112" data-name="Path 112" class="cls-3" d="M.628,0,0,.628,6.667,7.293,13.333.628,12.706,0,6.667,6.039Z" transform="translate(0)"/>
+    </g>
+  </g>
+</svg>

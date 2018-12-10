@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1798d1;
+      }
+
+      .cls-3 {
+        fill: #5ac2e2;
+      }
+    </style>
+  </defs>
+  <g id="ic_produk_manfaat" transform="translate(0)">
+    <rect id="Rectangle_128" data-name="Rectangle 128" class="cls-1" width="32" height="32"/>
+    <g id="Group_153" data-name="Group 153">
+      <path id="Path_122" data-name="Path 122" class="cls-2" d="M23.8,5.4,23.5,5H8.5l-.3.4L5,9.7V27H27V9.7ZM9.5,7h13L24,9H8ZM25,25H7V11H25Z"/>
+      <path id="Path_123" data-name="Path 123" class="cls-3" d="M12.8,13a1,1,0,0,0,.2,2h6a1.05,1.05,0,0,0,.9-.5.908.908,0,0,0,0-1A1.05,1.05,0,0,0,19,13H12.8Z"/>
+    </g>
+  </g>
+</svg>

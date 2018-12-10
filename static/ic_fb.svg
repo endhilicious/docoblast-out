@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_fb" class="cls-1">
+    <rect id="Rectangle_73" data-name="Rectangle 73" class="cls-2" width="24" height="24"/>
+    <g id="surface1_1_" transform="translate(3.75 3.75)">
+      <path id="Path_100" data-name="Path 100" d="M6.5,5A1.5,1.5,0,0,0,5,6.5V20a1.5,1.5,0,0,0,1.5,1.5H20A1.5,1.5,0,0,0,21.5,20V6.5A1.5,1.5,0,0,0,20,5Zm0,1.5H20V20H16.1V14.9h1.95l.3-2.25H16.1V11.225c0-.675.15-1.125,1.125-1.125h1.2V8.075C18.2,8.075,17.525,8,16.7,8a2.739,2.739,0,0,0-2.925,3v1.725h-1.95v2.25h1.95V20H6.5Z" transform="translate(-5 -5)"/>
+    </g>
+  </g>
+</svg>

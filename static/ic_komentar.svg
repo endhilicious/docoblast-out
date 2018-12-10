@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_komentar" class="cls-1">
+    <rect id="Rectangle_1874" data-name="Rectangle 1874" class="cls-2" width="24" height="24"/>
+    <g id="surface1_1_" transform="translate(2.25 3.225)">
+      <path id="Path_2323" data-name="Path 2323" d="M3,4.3v15h7.2l2.55,2.55L15.3,19.3h7.2V4.3H3ZM4.5,5.8H21v12H14.7l-1.95,1.95L10.8,17.8H4.5Zm3,2.25v1.5H18V8.05Zm0,3v1.5H18v-1.5Zm0,3v1.5H15v-1.5Z" transform="translate(-3 -4.3)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg id="ic_panduan_pemesanan" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1798d1;
+      }
+
+      .cls-3 {
+        fill: #5ac2e2;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_171" data-name="Rectangle 171" class="cls-1" width="96" height="96"/>
+  <g id="Group_237" data-name="Group 237" transform="translate(15 15)">
+    <path id="Path_143" data-name="Path 143" class="cls-2" d="M17,5V47h6V11H65V59a6,6,0,0,1-12,0V50H5v9A12.035,12.035,0,0,0,17,71H59A12.035,12.035,0,0,0,71,59V5Zm0,60a6.018,6.018,0,0,1-6-6V56H47v3a10.817,10.817,0,0,0,1.8,6Z" transform="translate(-5 -5)"/>
+    <g id="Group_236" data-name="Group 236" transform="translate(24 18)">
+      <rect id="Rectangle_172" data-name="Rectangle 172" class="cls-3" width="6" height="6"/>
+      <rect id="Rectangle_173" data-name="Rectangle 173" class="cls-3" width="18" height="6" transform="translate(12)"/>
+      <rect id="Rectangle_174" data-name="Rectangle 174" class="cls-3" width="6" height="6" transform="translate(0 12)"/>
+      <rect id="Rectangle_175" data-name="Rectangle 175" class="cls-3" width="18" height="6" transform="translate(12 12)"/>
+    </g>
+  </g>
+</svg>

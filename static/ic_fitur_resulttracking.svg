@@ -1,0 +1,28 @@
+<svg id="ic_fitur_resulttracking" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #5b5b5b;
+      }
+
+      .cls-3 {
+        fill: #5ac2e2;
+      }
+
+      .cls-4 {
+        fill: #1798d1;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_57" data-name="Rectangle 57" class="cls-1" width="48" height="48"/>
+  <rect id="Rectangle_58" data-name="Rectangle 58" class="cls-2" width="3" height="3" transform="translate(31.5 31.5)"/>
+  <rect id="Rectangle_59" data-name="Rectangle 59" class="cls-3" width="3" height="3" transform="translate(31.5 31.5)"/>
+  <path id="Path_89" data-name="Path 89" class="cls-3" d="M21.85,16l-.487.487-4.875,4.875L16,21.85V35.5H35.5V16Zm10.4,16.25h-13v-9.1l3.9-3.9h9.1Z" transform="translate(8 8)"/>
+  <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-4" cx="3.25" cy="3.25" r="3.25" transform="translate(17.5 17.5)"/>
+  <path id="Path_90" data-name="Path 90" class="cls-4" d="M17.75,8a9.75,9.75,0,1,0,0,19.5V24.25a6.32,6.32,0,0,1-6.5-6.5,6.32,6.32,0,0,1,6.5-6.5,6.32,6.32,0,0,1,6.5,6.5H27.5A9.779,9.779,0,0,0,17.75,8Z" transform="translate(3 3)"/>
+  <path id="Path_91" data-name="Path 91" class="cls-4" d="M20.25,4a16.25,16.25,0,0,0,0,32.5V33.25a13.254,13.254,0,0,1-13-13,13.254,13.254,0,0,1,13-13,13.254,13.254,0,0,1,13,13H36.5A16.3,16.3,0,0,0,20.25,4Z" transform="translate(0.5 0.5)"/>
+</svg>
